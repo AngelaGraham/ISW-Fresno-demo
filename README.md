@@ -6,7 +6,7 @@ Many decisions need to be made as to put what where, but the ideas are here even
 Carousel needs to have dark overlay so the text on the local houses of worship will be clearly visible.
 
 Must decide on the spacing of the image/rows in the Event section
-col-lg-4 col-md-12 col-12 ps-lg-5 mt-md-5 or
+col-lg-4 col-md-12 col-12 ps-lg-5 mt-md-5    or    
 col-lg-6 col-md-12 col-12 ps-lg-5 mt-md-5 for the images
 
 The rows for educational partner images needs to be spaced better
