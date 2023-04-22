@@ -71,15 +71,24 @@ line-height: 1.9;
     min-height: fit-content;
     
     position:relative;
-
 }
 
 .services .card-body i{
     font-size: 50px;
 }
 
+/* CSS for carousel */
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    color: #fff;
+}
 
+.carousel-control-prev, .carousel-control-next {
+    width: 5%;
+}
 
+.carousel-control-prev, .carousel-control-next {
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+}
 
 /*section    */
 
